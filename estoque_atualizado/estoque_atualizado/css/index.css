@@ -1,0 +1,15 @@
+/* CSS Document */
+
+body {
+	overflow-x: hidden;
+	overflow-y: hidden;
+	height: 100%;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #888;
+	font-size: 13px;
+	line-height: 20px;
+	min-width: 998px;
+	border-top:3px solid #919191;
+	background:url(../images/BG.jpg) repeat;
+}
